@@ -1,8 +1,8 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-## Name : NARRA AKHIL
-## REG NO : 212223230136
-## DATE : 31-10-24
+## Name : Karna S
+## REG NO : 212222110017
+## DATE : 04-11-24
 ## Aim :
 To write a program to implement the back end of the compiler.
 
